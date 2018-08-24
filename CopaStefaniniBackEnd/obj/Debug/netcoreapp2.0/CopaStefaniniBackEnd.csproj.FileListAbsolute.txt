@@ -14,7 +14,6 @@ C:\Estudos\CopaStefanini\CopaStefaniniBackEnd\CopaStefaniniBackEnd\bin\Debug\net
 C:\Estudos\CopaStefanini\CopaStefaniniBackEnd\CopaStefaniniBackEnd\bin\Debug\netcoreapp2.0\CopaStefaniniBackEnd.runtimeconfig.dev.json
 C:\Estudos\CopaStefanini\CopaStefaniniBackEnd\CopaStefaniniBackEnd\bin\Debug\netcoreapp2.0\CopaStefaniniBackEnd.dll
 C:\Estudos\CopaStefanini\CopaStefaniniBackEnd\CopaStefaniniBackEnd\bin\Debug\netcoreapp2.0\CopaStefaniniBackEnd.pdb
-C:\Estudos\CopaStefanini\CopaStefaniniBackEnd\CopaStefaniniBackEnd\obj\Debug\netcoreapp2.0\CopaStefaniniBackEnd.csprojAssemblyReference.cache
 C:\Estudos\CopaStefanini\CopaStefaniniBackEnd\CopaStefaniniBackEnd\obj\Debug\netcoreapp2.0\CopaStefaniniBackEnd.csproj.CoreCompileInputs.cache
 C:\Estudos\CopaStefanini\CopaStefaniniBackEnd\CopaStefaniniBackEnd\obj\Debug\netcoreapp2.0\CopaStefaniniBackEnd.AssemblyInfoInputs.cache
 C:\Estudos\CopaStefanini\CopaStefaniniBackEnd\CopaStefaniniBackEnd\obj\Debug\netcoreapp2.0\CopaStefaniniBackEnd.AssemblyInfo.cs

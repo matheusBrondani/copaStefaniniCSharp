@@ -5,8 +5,9 @@ using CopaStefaniniBackEnd.Services;
 
 
 namespace CopaStefaniniBackEnd.Controllers
-{    
-    [Route("api/Team")]    
+{
+    [Produces("application/json")]
+    [Route("api/Player")]
     public class TeamController : Controller
     {
         private readonly TeamService job;
@@ -32,14 +33,14 @@ namespace CopaStefaniniBackEnd.Controllers
 
         // POST api/<controller>
         [HttpPost]
-        public void Post(Team newTeam)
+        public void Post([FromBody] Team newTeam)
         {
             job.PostTeam(newTeam);
         }
 
         // PUT api/<controller>/5
         [HttpPut("{id}")]
-        public void Put(int id, Team upTeam)
+        public void Put([FromBody] int id, Team upTeam)
         {
             job.PutTeam(id, upTeam);
         }

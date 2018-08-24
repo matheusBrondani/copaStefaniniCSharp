@@ -28,6 +28,8 @@ namespace CopaStefaniniBackEnd.Data.Repositories
         //Insere um time novo
         public void PostTeam(Team newTeam)
         {
+            newTeam.IdTeam = _context.Teams.Max(p => p.IdTeam) + 1;
+
             _context.Teams.Add(newTeam);
             _context.SaveChanges();
         }

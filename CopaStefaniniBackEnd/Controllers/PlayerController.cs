@@ -12,9 +12,8 @@ namespace CopaStefaniniBackEnd.Controllers
     public class PlayerController : Controller
     {
         private  PlayerService job;
-        //private CupContext context;
 
-        public PlayerController(PlayerService _job)//CupContext _context)
+        public PlayerController(PlayerService _job)
         {
             job = _job;
         }
